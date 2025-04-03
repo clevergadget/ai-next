@@ -1,6 +1,6 @@
 # Next.js Starter Project
 
-A minimal starter project using [Next.js](https://nextjs.org/) and React.  
+A minimal starter project using [Next.js](https://nextjs.org/) and React.  Hands on implementation of documentation.
 This repository is a base scaffold for building modern web applications with server-side rendering, API routes, and more.
 
 ## Getting Started
